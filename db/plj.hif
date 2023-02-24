@@ -1,0 +1,231 @@
+Version 9.0 Build 132 02/25/2009 SJ Web Edition
+41
+2959
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+7490
+# storage
+db|plj.(1).cnf
+db|plj.(1).cnf
+# case_insensitive
+# source_file
+c:|altera|90|quartus|libraries|others|maxplus2|7490.bdf
+45a651568d7854ea67751d4cadb5
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+div8
+# storage
+db|plj.(0).cnf
+db|plj.(0).cnf
+# case_insensitive
+# source_file
+div8.bdf
+36a5898768f53cfa68ba547f4612a98
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+74153M
+# storage
+db|plj.(3).cnf
+db|plj.(3).cnf
+# case_insensitive
+# source_file
+c:|altera|90|quartus|libraries|others|maxplus2|74153M.bdf
+825cf2b9b562c28ddd5d34586b3a4
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+74161
+# storage
+db|plj.(4).cnf
+db|plj.(4).cnf
+# case_insensitive
+# source_file
+c:|altera|90|quartus|libraries|others|maxplus2|74161.tdf
+8ae87de328fa01839f5a524a1a9ba
+7
+# user_parameter {
+DEVICE_FAMILY
+Cyclone
+PARAMETER_UNKNOWN
+USR
+AUTO_CARRY_CHAINS
+ON
+AUTO_CARRY
+USR
+IGNORE_CARRY_BUFFERS
+OFF
+IGNORE_CARRY
+USR
+AUTO_CASCADE_CHAINS
+ON
+AUTO_CASCADE
+USR
+IGNORE_CASCADE_BUFFERS
+OFF
+IGNORE_CASCADE
+USR
+}
+# used_port {
+QB
+-1
+3
+QA
+-1
+3
+CLK
+-1
+3
+ENT
+-1
+2
+ENP
+-1
+2
+}
+# include_file {
+c:|altera|90|quartus|libraries|megafunctions|aglobal.inc
+99832fdf63412df51d7531202d74e75
+}
+# macro_sequence
+
+# end
+# entity
+f74161
+# storage
+db|plj.(5).cnf
+db|plj.(5).cnf
+# case_insensitive
+# source_file
+c:|altera|90|quartus|libraries|others|maxplus2|f74161.bdf
+408d3815988dee8ef0f04d17774959
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+7seg
+# storage
+db|plj.(6).cnf
+db|plj.(6).cnf
+# case_insensitive
+# source_file
+seg7.tdf
+69a621b4634688aefe473cdc69baa0b2
+7
+# used_port {
+g
+-1
+3
+f
+-1
+3
+e
+-1
+3
+dd
+-1
+3
+d
+-1
+3
+cc
+-1
+3
+c
+-1
+3
+bb
+-1
+3
+b
+-1
+3
+aa
+-1
+3
+a
+-1
+3
+}
+# macro_sequence
+
+# end
+# entity
+seg7
+# storage
+db|plj.(2).cnf
+db|plj.(2).cnf
+# case_insensitive
+# source_file
+seg7.bdf
+273046acaf12134858414cc188a29893
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+trig
+# storage
+db|plj.(7).cnf
+db|plj.(7).cnf
+# case_insensitive
+# source_file
+trig.bdf
+fc41a9e924294626b51284b94dc05fd4
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+

@@ -1,0 +1,10 @@
+|trig
+Q0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CP => inst.CLK
+CP => inst2.CLK
+M => inst.DATAIN
+Q1 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+Y <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+/Q1 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+
+
