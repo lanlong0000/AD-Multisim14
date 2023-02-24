@@ -1,0 +1,20 @@
+SUBDESIGN __design_name
+(
+	__input_name, __input_name		: INPUT = __constant_value;
+	__output_name, __output_name	: OUTPUT;
+	__bidir_name, __bidir_name		: BIDIR;
+
+	__state_machine_name			: MACHINE INPUT;
+	__state_machine_name			: MACHINE OUTPUT;
+)
+
+BEGIN
+TABLE
+	__node_name,	__node_name		=> __node_name,	__node_name;
+
+	__input_value,	__input_value	=>	__output_value,	__output_value;
+	__input_value,	__input_value	=>	__output_value,	__output_value;
+	__input_value,	__input_value	=>	__output_value,	__output_value;
+END TABLE;
+
+END;
